@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    background-color: gray;
+    color: black;
+}
+
+div{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    background-color: purple;
+    color: black;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border: blueviolet;
+    margin: 20px;
+    opacity: 0.6px;
+}
